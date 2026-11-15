@@ -57,10 +57,20 @@ The original version is retained for historical reference.
 
 ## Archival record
 
-- [Zenodo Version 1.0](https://doi.org/10.5281/zenodo.18626931)
-- [GitHub repository](https://github.com/menglab/ghost-in-the-genome)
+The manuscript is archived on Zenodo with version-specific and concept DOIs.
 
-The Version 2.0 Zenodo record and DOI will be linked here following archival publication.
+- **Current version (v2.0):** [10.5281/zenodo.24247423](https://doi.org/10.5281/zenodo.24247423)
+- **Concept DOI (all versions):** [10.5281/zenodo.18626930](https://doi.org/10.5281/zenodo.18626930)
+- **Original version (v1.0):** [10.5281/zenodo.18626931](https://doi.org/10.5281/zenodo.18626931)
+
+The Concept DOI represents all versions of this work and resolves to the latest version. Each version-specific DOI permanently identifies its corresponding archived version.
+
+### Related links
+
+- [GitHub repository](https://github.com/menglab/ghost-in-the-genome)
+- [GitHub releases](https://github.com/menglab/ghost-in-the-genome/releases)
+- [Zenodo Version 2.0 record](https://zenodo.org/records/24247423)
+- [ResearchGate publication](https://www.researchgate.net/publication/400798060_The_Ghost_in_the_Genome_High-Dimensional_Constraints_and_the_Bi-state_Dynamics_of_Homologous_Gene_Groups)
 
 ## License
 
@@ -68,4 +78,12 @@ The original repository materials are distributed under the Creative Commons Att
 
 ## Citation
 
-Please cite the version-specific Zenodo record when referencing this work. The Version 2.0 citation information will be added after its archival publication.
+Please cite the specific version when referencing this work.
+
+**Version 2.0:**
+
+Meng X. (2026). *The Ghost in the Genome: High-Dimensional Constraints and the Bi-state Dynamics of Homologous Gene Groups*. Version 2.0. Zenodo. https://doi.org/10.5281/zenodo.24247423
+
+**All versions:**
+
+Meng X. (2026). *The Ghost in the Genome: High-Dimensional Constraints and the Bi-state Dynamics of Homologous Gene Groups*. Zenodo. https://doi.org/10.5281/zenodo.18626930
