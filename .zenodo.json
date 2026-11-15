@@ -1,0 +1,35 @@
+{
+  "title": "The Ghost in the Genome: High-Dimensional Constraints and the Bi-state Dynamics of Homologous Gene Groups",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "version": "2.0",
+  "creators": [
+    {
+      "name": "Meng, Xianwen",
+      "affiliation": "School of Information Engineering, Yulin University, Yulin, Shaanxi, 719000, China"
+    }
+  ],
+  "description": "<p>Conceptual synthesis and hypothesis framework; version 2.0. This manuscript develops homologous gene groups (HGGs) as candidate evolutionary entities whose continuity can be investigated separately from member turnover, and proposes stable/transition dynamics as a testable hypothesis. Multi-layer constraints are a causal extension; protein language models are an optional measurement extension.</p><p>Candidate construction is separated from independent evaluation against hierarchical orthologous groups and other established units. The manuscript develops competing explanations, controls and module-specific rejection criteria. A placental-mammal beta-globin example illustrates the proposed tests. Genome-wide, multispecies validation remains outstanding.</p><p>This expanded version retains the original title and author of version 1.0, first released on 13 February 2026 (10.5281/zenodo.18626931).</p>",
+  "keywords": [
+    "homologous gene groups",
+    "gene family evolution",
+    "molecular evolution",
+    "comparative genomics",
+    "evolutionary constraints",
+    "protein language models"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18626931",
+      "relation": "isNewVersionOf",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://github.com/menglab/ghost-in-the-genome",
+      "relation": "isDocumentedBy"
+    }
+  ]
+}
